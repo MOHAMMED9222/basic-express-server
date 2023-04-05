@@ -10,8 +10,7 @@ Express Server for running tests on methods, paths, and queries
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/JMCov/basic-express-server/actions)
-- Prod [back-end server url](https://server-deployment-practice-prod-czdo.onrender.com/)
+
 
 ### Setup
 
@@ -40,4 +39,5 @@ No
 N/A
 
 #### UML
+
 
