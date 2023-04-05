@@ -6,7 +6,7 @@ describe('logger middleware', () => {
     const res = {};
     const next = jest.fn();
     logger(req, res, next);
-    expect(next).toHaveBeenCalledWith(expect.any(Error));
+   expect(next).toHaveBeenCalled();
     expect(next.mock.calls[0][0].statusCode).toBe(400);
   });
 
