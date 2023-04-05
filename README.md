@@ -41,4 +41,3 @@ N/A
 
 #### UML
 
-![Lab-02 UML](assets/lab-02-uml.png)
